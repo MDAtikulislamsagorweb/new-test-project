@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.btn1 {
+  color:green;
+}
+
+.sagor1 {
+  color:blueviolet;
+  text-align: center;
+}
+
+.red-link {
+  color: red;
+}
